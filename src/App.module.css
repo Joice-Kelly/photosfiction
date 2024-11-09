@@ -1,0 +1,31 @@
+.container { 
+  display: flex; 
+  flex-direction: column; 
+  padding: 30px 20px; 
+  align-items: center; 
+  color: #fff; 
+} 
+
+.title { 
+  text-align: center; 
+  margin-bottom: 20px; 
+} 
+
+.container img { 
+  width: 100%; 
+  max-width: 600px; 
+  height: auto; 
+  margin-bottom: 20px; 
+  border-radius: 15px; 
+} 
+
+.label { 
+  font-size: 16px; 
+  text-align: justify; 
+} 
+
+.label p { 
+  padding-bottom: 2px;
+  line-height: 1;
+  text-indent: 1em;
+}
